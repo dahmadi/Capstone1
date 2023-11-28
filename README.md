@@ -12,4 +12,6 @@ All parts of the Project completed by Donya Ahmadi
 ## Part 3 - Portfolio Optimization
 ### Portfolio optimization is a financial modeling technique that selects the optimal mix of assets to achieve a specific investment goal. The primary objective of portfolio optimization is to maximize returns, minimize risk, or achieve a trade-off between the two, given certain constraints. This section is an analysis of the Monte Carlo results. However, the purpose of this section is to analyze and compare the performance of the portfolio with the average weights obtained from the Monte Carlo simulations against a uniform portfolio with equal weights. 
 
+![Alt Text](Project 1 Images/Average-Optimized-Weights-Results.png)
+
 ## Part 4 - Data Visualization 
