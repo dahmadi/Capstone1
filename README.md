@@ -12,6 +12,10 @@ All parts of the Project completed by Donya Ahmadi
 ## Part 3 - Portfolio Optimization
 ### Portfolio optimization is a financial modeling technique that selects the optimal mix of assets to achieve a specific investment goal. The primary objective of portfolio optimization is to maximize returns, minimize risk, or achieve a trade-off between the two, given certain constraints. This section is an analysis of the Monte Carlo results. However, the purpose of this section is to analyze and compare the performance of the portfolio with the average weights obtained from the Monte Carlo simulations against a uniform portfolio with equal weights. 
 
+#### Expected Return on Investment Using Optimized Weights
 ![Average Optimized Weights Results](https://github.com/dahmadi/FinTechProj1/blob/c1487bf12cbfb08b02fb5b3b6403d89f35714444/Project%201%20Images/Average-Optimized-Weights-Results.png)
+
+#### Expected Return on Investment Using Uniform Weights
+![Uniform_Weights_Results](https://github.com/dahmadi/FinTechProj1/blob/0a150f293328e354f01c73f0f8bb63364877ca0e/Project%201%20Images/Uniform-Weights-Results.png)
 
 ## Part 4 - Data Visualization 
