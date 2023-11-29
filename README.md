@@ -32,3 +32,5 @@ All parts of the Project completed by Donya Ahmadi
 #### 90% Confidence Interval Graph
 
 ![confidence-interval](https://github.com/dahmadi/FinTechProj1/blob/86093b1e5a41690c97f7b60323832578541b6b3e/Project%201%20Images/90-confidence-interval.png)
+
+The 90% confidence interval for the values in the recentReturns dataset is approximately [14.91, 692.18]. This means that there is a 90% confidence that the true values lie within this range
