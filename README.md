@@ -1,7 +1,9 @@
 # FinTechProj1
-### The objective of this project is to optimize one's portfolio using Monte Carlo Simulations and historical data from Alpacas spanning the past 20 years.
+### The objective of this project is to optimize one's portfolio using Monte Carlo Simulations and historical data from Alpacas spanning the past 20 years (11/2003 - 11/2023). More specifically, this project assists in getting the optimal asset allocation (or optimal weight) to maximize their portfolio and potentially beat the S&P500.
 
-All parts of the Project completed by Donya Ahmadi
+* All parts of the Project completed by Donya Ahmadi
+* The main data source was Alpacas
+
 
 ## Part 1 - Data (Collection, CleanUp, etc.)
 ### The first part included importing necessary libraries, initializing variables (including env), and importing historical data using Alpacas API. For this project, I chose AAPL, AMZN, AND MSFT, but any ticker will work. I displayed the daily return, mean, standard deviation, and last-day closing prices for my chosen tickers and the S&P 500.
@@ -33,4 +35,8 @@ All parts of the Project completed by Donya Ahmadi
 
 ![confidence-interval](https://github.com/dahmadi/FinTechProj1/blob/86093b1e5a41690c97f7b60323832578541b6b3e/Project%201%20Images/90-confidence-interval.png)
 
-The 90% confidence interval for the values in the recentReturns dataset is approximately [14.91, 692.18]. This means that there is a 90% confidence that the true values lie within this range
+The 90% confidence interval for the values in the optimized weights dataset is approximately [14.91, 692.18]. This means that there is a 90% confidence that the true values lie within this range
+
+## Conclusions
+
+### After comparing the results of optimized weights versus uniform weights, it is evident the Monte Carlo simulations have been successful. You can see this in the above plots and statements. Some limitations include the volatility of the stock market so it can be difficult to predict it with the current day's technology. I believe some next steps would include creating this project with a recurrent neural network and comparing predictions.
