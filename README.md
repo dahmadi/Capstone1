@@ -19,3 +19,16 @@ All parts of the Project completed by Donya Ahmadi
 ![Uniform_Weights_Results](https://github.com/dahmadi/FinTechProj1/blob/0a150f293328e354f01c73f0f8bb63364877ca0e/Project%201%20Images/Uniform-Weights-Results.png)
 
 ## Part 4 - Data Visualization 
+
+#### Uniform Weights For Stocks Data
+![Uniform-Weights-Data](https://github.com/dahmadi/FinTechProj1/blob/86093b1e5a41690c97f7b60323832578541b6b3e/Project%201%20Images/Uniform-Weights-Data.png)
+
+#### Average Optimized Weights For Stocks Data
+![Average-Opt-Weight-Data](https://github.com/dahmadi/FinTechProj1/blob/86093b1e5a41690c97f7b60323832578541b6b3e/Project%201%20Images/Opt-Weights-Data.png)
+
+#### Expected Return On Investment (Optimized) Graph
+![Return-Investment](https://github.com/dahmadi/FinTechProj1/blob/86093b1e5a41690c97f7b60323832578541b6b3e/Project%201%20Images/Expected-Return-investment.png)
+
+#### 90% Confidence Interval Graph
+
+![confidence-interval](https://github.com/dahmadi/FinTechProj1/blob/86093b1e5a41690c97f7b60323832578541b6b3e/Project%201%20Images/90-confidence-interval.png)
