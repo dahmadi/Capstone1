@@ -1,4 +1,6 @@
 # FinTechProj1
+Grade: 96/100
+
 ### The objective of this project is to optimize one's portfolio using Monte Carlo Simulations and historical data from Alpacas spanning the past 20 years (11/2003 - 11/2023). More specifically, this project assists in getting the optimal asset allocation (or optimal weight) to maximize their portfolio and potentially beat the S&P500.
 
 * All parts of the Project completed by Donya Ahmadi
